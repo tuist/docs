@@ -11,5 +11,8 @@
     "build": "vitepress build",
     "preview": "vitepress preview",
     "deploy": "vitepress build && wrangler pages deploy .vitepress/dist --project-name tuist-docs-next --branch main"
+  },
+  "dependencies": {
+    "wrangler": "^3.37.0"
   }
 }
