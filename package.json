@@ -1,0 +1,14 @@
+{
+  "name": "@tuist/docs",
+  "private": true,
+  "description": "Tuist's documentation website",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.1"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
