@@ -35,13 +35,14 @@ Once you've defined your project, Tuist offers various workflows to manage and i
 - **Build:** This workflow not only generates the Xcode project but also employs `xcodebuild` to compile it.
 - **Test:** Operating much like the build workflow, this not only generates the Xcode project but utilizes `xcodebuild` to test it.
 
-Additionally, as detailed in [What is Tuist Cloud](/tuist-cloud/users), Tuist offers a suite of optimizations. These include **target-focused project generation**, the ability to swap out targets and dependencies with their **binary** equivalents, and ensuring build and test incrementality across different environments (e.g., local machine vs. CI). Plus, it provides actionable insights to guide teams in making informed choices.
+Additionally, Tuist offers a suite of optimizations, [Tuist Cloud](/guide/scale/cloud). These include **target-focused project generation**, the ability to swap out targets and dependencies with their **binary** equivalents, and ensuring build and test incrementality across different environments (e.g., local machine vs. CI). Plus, it provides actionable insights to guide teams in making informed choices.
 
 > Tip: Tuist's optimizations and insights stem from the knowledge gained from your project's manifest files. To ensure teams remain productive, data-backed decisions are essential—something Xcode doesn't offer. As a result, teams often operate without clear insights, unsure if their choices benefit the project.
 
 ## Frequently asked questions
 
 ### How does Tuist compare to...
+<br/>
 
 #### Swift Package Manager
 

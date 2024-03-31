@@ -148,3 +148,17 @@ Without bash-completion, you'll need to source the completion script directly. C
 ```bash
 source ~/.bash_completions/example.bash
 ```
+
+## Next steps
+
+Once the installation is complete, you can start using Tuist to manage your projects. Here are some paths you might want to explore:
+
+- [**Create a new project**](/guide/introduction/adopting-tuist/new-project): If you are new to Tuist and don't have a project to migrate, you can start by creating a new project. We recommend introducing Tuist as early as possible in your project's lifecycle to be prepared for future growth and avoid laborious migrations.
+- [**Use it with an existing Swift Package**](/guide/introduction/adopting-tuist/swift-package): If you have a project already declared using the Swift Package Manager, you might consider this option to explore how Tuist optimizations such as [binary caching](/guide/scale/cloud/binary-caching) or [selective testing](/guide/scale/cloud/binary-caching) might impact your workflows.
+
+<!-- ## Creating a new project
+
+
+> I have a package
+> I have a project
+> I have a workspace -->
