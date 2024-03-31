@@ -148,6 +148,10 @@ export default defineConfig({
             {
               text: "CLI",
               link: "/reference/cli"
+            },
+            {
+              text: "Manifests",
+              link: "/reference/manifests/index"
             }
           ]
         }
