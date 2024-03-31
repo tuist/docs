@@ -37,6 +37,9 @@ export default defineConfig({
               link: "guide/introduction/what-is-tuist"
             },
             {
+              text: "The cost of convenience"
+            },
+            {
               text: "Installation",
               link: "guide/introduction/installation",
             },
