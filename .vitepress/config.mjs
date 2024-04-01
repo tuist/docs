@@ -34,15 +34,15 @@ export default defineConfig({
           items: [
             {
               text: "What is Tuist?",
-              link: "guide/introduction/what-is-tuist"
+              link: "/guide/introduction/what-is-tuist"
             },
             {
               text: "The cost of convenience",
-              link: "guide/introduction/cost-of-convenience"
+              link: "/guide/introduction/cost-of-convenience"
             },
             {
               text: "Installation",
-              link: "guide/introduction/installation",
+              link: "/guide/introduction/installation",
             },
             {
               text: "Adopting Tuist",
@@ -50,26 +50,26 @@ export default defineConfig({
               items: [
                 {
                   text: "Create a project",
-                  link: "guide/introduction/adopting-tuist/new-project"
+                  link: "/guide/introduction/adopting-tuist/new-project"
                 },
                 {
                   text: "Use it with a Swift Package",
-                  link: "guide/introduction/adopting-tuist/swift-package"
+                  link: "/guide/introduction/adopting-tuist/swift-package"
                 },
                 {
                   text: "Migrate from .xcodeproj",
-                  link: "guide/introduction/adopting-tuist/swift-package"
+                  link: "/guide/introduction/adopting-tuist/swift-package"
                 },
                 {
                   text: "Migrate local Swift Packages"
                 },
                 {
                   text: "Migrate from XcodeGen",
-                  link: "guide/introduction/adopting-tuist/migrate-from-xcodegen"
+                  link: "/guide/introduction/adopting-tuist/migrate-from-xcodegen"
                 },
                 {
                   text: "Migrate from Bazel",
-                  link: "guide/introduction/adopting-tuist/migrate-from-xcodegen"
+                  link: "/guide/introduction/adopting-tuist/migrate-from-xcodegen"
                 }
               ]
             }

@@ -1,3 +1,7 @@
+---
+title: What is Tuist?
+---
+
 # Tuist
 
 As Xcode projects expand, **organizations may face a decline in productivity** due to several factors, including unreliable incremental builds, frequent clearing of Xcode's global cache by developers encountering issues, and fragile project configurations. To maintain rapid feature development, organizations typically explore various strategies.
