@@ -37,7 +37,8 @@ export default defineConfig({
               link: "guide/introduction/what-is-tuist"
             },
             {
-              text: "The cost of convenience"
+              text: "The cost of convenience",
+              link: "guide/introduction/cost-of-convenience"
             },
             {
               text: "Installation",
@@ -77,8 +78,8 @@ export default defineConfig({
         {
           text: "Generation",
           items: [
-            {text: "Editing"},
-            {text: "Directory structure"},
+            {text: "Directory structure", link: '/guide/generation/directory-structure'},
+            {text: "Editing", link: "/guide/generation/editing"},
             {text: "Dependencies"},
             {text: "Code sharing"},
             {text: "Graph visualization"}
