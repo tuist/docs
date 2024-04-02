@@ -110,6 +110,10 @@ export default defineConfig({
               link: "/guide/scale/cloud",
               items: [
                 {
+                  text: "Get started",
+                  link: "/guide/scale/cloud/get-started"
+                },
+                {
                   text: "Binary caching",
                   link: "/guide/scale/cloud/binary-caching"
                 },
